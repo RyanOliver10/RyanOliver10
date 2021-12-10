@@ -16,8 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="50" />
 </div>
-
-Apaixonado por tecnologia, ciência e inovação, atualmente cursando gestão em tecnologia da informação
  
   ![Snake animation](https://github.com/output/github-contribution-grid-snake.svg)
  
